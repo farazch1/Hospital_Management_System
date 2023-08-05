@@ -1,0 +1,12 @@
+Name,Admin ID,Password,Gender,City,Contact,Address,Duration Of Service
+
+Syed,ADM-111,plokj89,Male,Lahore,93483948,Lahore,100
+admin3,ADM-1112,asdasd,asdasd,sfsdf,asfsdf,dasfsdf,12
+vgug,ygug,g,ug,ug,yu,g,233
+Syed,NURR-122,*****,Female,Lahore,090078601,123-Muslim Tower,12
+e,admin,admin,M,Lhr,090078601,11-A,MT,LHR,11
+adminaz,123,admin,as,as,as,sa,11
+admin2,ADM-777,swdwe,d,a,d,d,0
+vhvj,hjv,j,vj,v,hjv,jv,0
+qooo,s,s,jbbHbhu,h,b,hb,0
+Faraz,admin,admin,M,Lhr,090,aa,12years

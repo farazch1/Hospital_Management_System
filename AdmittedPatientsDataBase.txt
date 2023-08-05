@@ -1,0 +1,3 @@
+Patient Name,Patient ID,City,Gender,Address,Contact,Ward,Under Supervision,Complaints,Allergies,Surgeries,Immunization,Drugs,Date/Time of admission
+
+Abdul Razaq,10050,Qasoor,Male,N/A,036000,Emergency Ward,Syed,N/A,Chicken Pox,N/A,N/A,N/A,Timestamp: 2022-07-15 14:59:40

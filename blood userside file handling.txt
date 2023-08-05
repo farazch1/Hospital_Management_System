@@ -1,0 +1,15 @@
+
+required=input("Enter Blood GROUP: ")
+        
+import pandas as pd
+
+redix=pd.read_csv("1.txt")
+search=redix.loc[(redix['BLOOD']==required]
+if len(search)!=0:
+    messagebox.showinfo("RADIX BLOOD BANK","WE can help you by required blood group reach our laboratory soon.")
+if len(search)==0:
+    
+messagebox.showerror("RADIX BLOOD BANK","SORRY!We cannot help you by required blood group ")
+            
+        
+    

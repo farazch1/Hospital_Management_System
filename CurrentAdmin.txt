@@ -1,0 +1,4 @@
+Name,Admin ID,Password,Gender,City,Contact,Address
+
+admin,ADM-12,admin,M,Lhr.,123,1
+admin_1,ADM-2,admin_1,M,Lhr.,123,12

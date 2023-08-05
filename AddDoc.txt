@@ -1,0 +1,4 @@
+Name,Doctor ID,Password,City,Gender,Address,Contact,Ward,Qualification,Experience
+
+Haqan,KIL-908,lah987,Lahore,male,90],0987,09,plo,plos
+Syed,ali,a,a,a,a,a,a,a,a

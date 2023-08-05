@@ -1,0 +1,12 @@
+Patient Name,Patient ID,City,Gender,Address,Contact,Ward,Under Supervision,Complaints,Allergies,Surgeries,Immunization,Drugs,Stay Period,Date/Time of Discharge
+cccc,cccc,cccc,cccc,cccc,cccc,cccc,cccc,a,b,c,d,e,10 days
+ana,ONC-987,Lahore,Female,Lahore,0998-7654231,Oncology,Hali,a,b,c,d,e,10 days
+aaaa,aaaa,aaaa,aaaa,aaaa,aaaa,aaaa,aaaa,e,f,g,h,i,9 days
+Aneeq,DEN-111,Lahore,Male,Lahore,0998-6758905,Dengue,Dr. Ikram,b,v,c,x,z,122Timestamp: 2022-07-13 20:07:28
+bbbb,bbbb,bbbb,bbbb,bbbb,bbbb,bbbb,bbbbh,h,h,h,h,h,0Timestamp: 2022-07-15 14:52:06
+ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,a,a,s,d,f,0Timestamp: 2022-07-15 14:54:20
+noor,no,no,no,no,no,no,no,g,h,j,k,l,0Timestamp: 2022-07-15 14:54:26
+noor,nop,no,nopw,nope,nope,nope,nop,f,g,h,n,b,0Timestamp: 2022-07-15 14:54:31
+aala,a,a,a,a,a,a,a,h,g,t,y,u,0Timestamp: 2022-07-15 14:54:36
+sf,dd,sf,df,sf,f,sf,sf,sf,dsf,sf,f,sf,0Timestamp: 2022-07-15 14:54:42
+wef,wfef,wfewf,wfwef,wfwef,wfwef,wefwe,Syed,wefwf,wefewf,wefewf,wefewf,wefewf,0Timestamp: 2022-07-15 14:54:52
